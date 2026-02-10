@@ -1,0 +1,11 @@
+# BFHL API
+
+## Endpoints
+### POST /bfhl
+Handles fibonacci, prime, lcm, hcf, AI queries
+
+### GET /health
+Health check
+
+## Tech Stack
+Node.js, Express, Google Gemini AI
